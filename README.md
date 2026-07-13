@@ -87,17 +87,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,docker"/>
 </p>
 
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahmoudali20&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudali20&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -109,15 +98,6 @@
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mahmoudali20&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
 
 ---
 
@@ -139,11 +119,11 @@ A RESTful backend application that allows users to manage their accounts and boo
 - ☕ Spring Boot
 - 🗃️ Spring Data JPA
 - 🌐 RESTful API
-- 🛢️ MySQL Database
+
 
 🔗 Repository
 
-https://github.com/mahmoudali20/PUT_YOUR_BOOKMARK_REPO
+https://github.com/mahmoudali20/Bookmarks-Aggregator-API
 
 ---
 
@@ -176,30 +156,33 @@ https://github.com/mahmoudali20/GymManagementSystem
 
 **Python | Django**
 
-A web application developed while learning Django fundamentals.
+A complete web application for managing library operations, allowing users to browse, borrow, and return books efficiently.
 
 ### Features
 
 - 📖 Book Management
 - 👤 Member Management
 - 🔄 Borrow & Return Books
+- 🔍 Search Books
+- 📚 Book Categories
 - 🔐 User Authentication
-- 🗃️ Database Integration
+- 🗄️ Database Integration
+
 
 ---
 
-## 🛍️ Mini E-Commerce
-
 **PHP | Laravel**
 
-A small project developed to explore Laravel fundamentals.
+A web application built while learning Laravel fundamentals that allows users to search for weather information for different cities.
 
 ### Features
 
-- 🛒 Product Management
-- 👤 User Authentication
-- 📦 CRUD Operations
-- 🗃️ Database Integration
+- 🌍 Search weather by city
+- 🌡️ Display current temperature
+- ☁️ Weather condition
+- 💨 Wind information
+- 💧 Humidity
+- 📱 Simple and responsive interface
 
 ---
 
@@ -220,7 +203,7 @@ Besides my primary focus on ASP.NET Core, I have also explored:
 
 - ☕ Java & Spring Boot
 - 🐍 Python & Django (Foundation Level)
-- 🐘 PHP & Laravel (Foundation Level)
+- 🐘 PHP & Laravel (Built a Weather Forecast Web Application)
 
 These experiences helped me understand different backend ecosystems and strengthen my software engineering fundamentals.
 

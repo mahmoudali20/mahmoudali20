@@ -8,7 +8,7 @@
 ### ASP.NET Core Developer | Information Systems Student
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=700&lines=ASP.NET+Core+Developer;Backend+.NET+Developer;Entity+Framework+Core;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=700&lines=ASP.NET+Core+Developer;Backend+.NET+Developer;Spring+Boot+Developer;Always+Learning+New+Technologies"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=mahmoudali20&color=blue)
@@ -21,11 +21,11 @@
 
 🎓 Fourth-Year Information Systems Student at **Faculty of Computers and Artificial Intelligence, Cairo University**
 
-💻 Passionate about building backend applications using **ASP.NET Core** and **C#**.
+💻 Passionate about Backend Development using **ASP.NET Core** and **Spring Boot**.
 
-🏗️ Interested in Software Engineering, Clean Code, and scalable application design.
+🏗️ Interested in Software Engineering, Clean Architecture, and scalable backend systems.
 
-🗄️ Passionate about **SQL Server**, Database Design, and Entity Framework Core.
+🗄️ Passionate about Database Design, SQL Server, Entity Framework Core, and RESTful APIs.
 
 🚀 Always learning new technologies and improving my backend development skills.
 
@@ -35,10 +35,17 @@
 
 - ASP.NET Core MVC
 - ASP.NET Core Web API
+- Spring Boot
+- RESTful APIs
 - Entity Framework Core
+- Spring Data JPA
 - SQL Server
+- MySQL
 - LINQ
 - C#
+- Java
+- Python
+- PHP
 - Repository Pattern
 - Unit of Work
 - AutoMapper
@@ -57,23 +64,22 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,cpp,java,python,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=cs,java,python,php,cpp,html,css,js"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet"/>
+<img src="https://skillicons.dev/icons?i=dotnet,spring,django,laravel"/>
 </p>
-
-- ASP.NET Core MVC
-- ASP.NET Core Web API
-- Entity Framework Core
-- ASP.NET Core Identity
 
 ### Database
 
-- SQL Server
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+**SQL Server • MySQL • Entity Framework Core • Spring Data JPA**
 
 ### Tools
 
@@ -83,6 +89,17 @@
 
 ---
 
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahmoudali20&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudali20&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 
 # 🔥 GitHub Streak
 
@@ -94,7 +111,41 @@
 
 ---
 
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mahmoudali20&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
 # 🌟 Featured Projects
+
+## 🔖 Bookmarks Aggregator API
+
+**Java | Spring Boot | Spring Data JPA | MySQL**
+
+A RESTful backend application that allows users to manage their accounts and bookmarks efficiently.
+
+### Features
+
+- 👤 User Authentication
+- 🔖 Bookmark Management
+- ✏️ Create, Update & Delete Bookmarks
+- 🏷️ Search Bookmarks by Tags
+- 📋 View User Bookmarks
+- ☕ Spring Boot
+- 🗃️ Spring Data JPA
+- 🌐 RESTful API
+- 🛢️ MySQL Database
+
+🔗 Repository
+
+https://github.com/mahmoudali20/PUT_YOUR_BOOKMARK_REPO
+
+---
 
 ## 🏋️ Gym Management System
 
@@ -115,22 +166,40 @@ A complete web application for managing gym operations.
 - 📂 File Upload
 - 🗄️ SQL Server Database
 
-🔗 **Repository**
-https://github.com/mahmoudali20/GymManagementSystem 
+🔗 Repository
+
+https://github.com/mahmoudali20/GymManagementSystem
+
 ---
 
-## 🛒 Online Retail Store Database Design
+## 📚 Library Management System
 
-**Database Design Project**
+**Python | Django**
+
+A web application developed while learning Django fundamentals.
 
 ### Features
 
-- ER Diagram
-- Relational Schema
-- SQL Database Design
-- Business Rules
-- Relationship Mapping
-- Normalization
+- 📖 Book Management
+- 👤 Member Management
+- 🔄 Borrow & Return Books
+- 🔐 User Authentication
+- 🗃️ Database Integration
+
+---
+
+## 🛍️ Mini E-Commerce
+
+**PHP | Laravel**
+
+A small project developed to explore Laravel fundamentals.
+
+### Features
+
+- 🛒 Product Management
+- 👤 User Authentication
+- 📦 CRUD Operations
+- 🗃️ Database Integration
 
 ---
 
@@ -139,25 +208,53 @@ https://github.com/mahmoudali20/GymManagementSystem
 - Clean Architecture
 - Design Patterns
 - Advanced Entity Framework Core
-- RESTful API Best Practices
+- System Design
+- Docker
+- Microservices
+
+---
+
+# 💻 Additional Technologies
+
+Besides my primary focus on ASP.NET Core, I have also explored:
+
+- ☕ Java & Spring Boot
+- 🐍 Python & Django (Foundation Level)
+- 🐘 PHP & Laravel (Foundation Level)
+
+These experiences helped me understand different backend ecosystems and strengthen my software engineering fundamentals.
 
 ---
 
 # 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:mahmoud.ali.ashor@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/mahmoud-ashor/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="mailto:mahmoud.ali.ashor@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/mahmoudali20">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/mahmoud-ashor/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mahmoudali20">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📂 Explore More Projects
+
+<div align="center">
+
+<a href="https://github.com/mahmoudali20?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -165,6 +262,7 @@ https://github.com/mahmoudali20/GymManagementSystem
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Programs must be written for people to read, and only incidentally for machines to execute."* — Harold Abelson
+*"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
+

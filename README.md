@@ -127,9 +127,7 @@ A complete web application for managing gym operations.
 - 🗄️ SQL Server Database
 
 🔗 **Repository**
-
-> ضع هنا رابط مشروع الـ Gym بعد رفعه على GitHub.
-
+https://github.com/mahmoudali20/GymManagementSystem 
 ---
 
 ## 🛒 Online Retail Store Database Design
@@ -159,23 +157,17 @@ A complete web application for managing gym operations.
 # 📫 Connect With Me
 
 <p align="center">
+  <a href="mailto:mahmoud.ali.ashor@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:mahmoud.ali.ashor@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+  <a href="https://www.linkedin.com/in/mahmoud-ashor/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/mahmoud-ashor/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/mahmoudali20">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
+  <a href="https://github.com/mahmoudali20">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---

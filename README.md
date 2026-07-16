@@ -31,7 +31,9 @@
 
 ---
 
-# 🚀 Core Skills
+# 💻 Tech Stack
+
+### 💻 Languages
 
 <p align="center">
 
@@ -44,17 +46,28 @@
 
 </p>
 
+---
+
+### 🚀 Backend Technologies
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/.NET-6B46FF?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/ASP.NET_Core-4169E1?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/ASP.NET_MVC-6A1BFF?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Web_API-FF4081?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Entity_Framework_Core-8ED6F8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ASP.NET_Identity-7B1FA2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Spring_Boot-43A047?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-4CAF50?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Laravel-FF6B6B?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-0F766E?style=for-the-badge&logo=django&logoColor=white"/>
 
 </p>
+
+---
+
+### 🧠 Software Engineering Concepts
 
 <p align="center">
 
@@ -66,8 +79,13 @@
 <img src="https://img.shields.io/badge/Clean_Architecture-2196F3?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Repository_Pattern-FFB300?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Unit_of_Work-7C4DFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AutoMapper-00ACC1?style=for-the-badge"/>
 
 </p>
+
+---
+
+### 🗄️ Databases & ORMs
 
 <p align="center">
 
@@ -79,6 +97,10 @@
 
 </p>
 
+---
+
+### 🎨 Frontend
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-FF6B81?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -87,6 +109,10 @@
 <img src="https://img.shields.io/badge/Bootstrap-7B3FE4?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 </p>
+
+---
+
+### 🛠️ Development Tools
 
 <p align="center">
 
@@ -98,53 +124,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </p>
----
 
-
-# 💻 Tech Stack
-
-### 💻 Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,python,cpp,php,js,html,css" />
-</p>
-
-### 🚀 Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,spring,django,laravel" />
-</p>
-
-<p align="center">
-ASP.NET Core` • `ASP.NET MVC` • `Web API` • `Entity Framework Core`
-</p>
-
-### 🗄️ Database
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,redis" />
-</p>
-<p align="center">
-SQL Server` • `Entity Framework Core` • `Spring Data JPA`
-</p>
-
-**SQL Server • MySQL • Entity Framework Core • Spring Data JPA**
-
-
-### 🧠 Concepts
-
-<p align="center">
-
-OOP` • `SOLID` • `LINQ` • `Design Patterns` • `REST APIs`
-`Repository Pattern` • `Unit of Work`
-`Authentication & Authorization`
-
-</p>
-
-### 🛠 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,docker" />
-</p>
 
 
 ---

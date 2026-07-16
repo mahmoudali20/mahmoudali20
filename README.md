@@ -140,31 +140,10 @@
 
 ---
 
+
+
 # 🌟 Featured Projects
 
-## 🔖 Bookmarks Aggregator API
-
-**Java | Spring Boot | Spring Data JPA | MySQL**
-
-A RESTful backend application that allows users to manage their accounts and bookmarks efficiently.
-
-### Features
-
-- 👤 User Authentication
-- 🔖 Bookmark Management
-- ✏️ Create, Update & Delete Bookmarks
-- 🏷️ Search Bookmarks by Tags
-- 📋 View User Bookmarks
-- ☕ Spring Boot
-- 🗃️ Spring Data JPA
-- 🌐 RESTful API
-
-
-🔗 Repository
-
-https://github.com/mahmoudali20/Bookmarks-Aggregator-API
-
----
 
 ## 🏋️ Gym Management System
 
@@ -188,6 +167,32 @@ A complete web application for managing gym operations.
 🔗 Repository
 
 https://github.com/mahmoudali20/GymManagementSystem
+
+
+---
+
+## 🔖 Bookmarks Aggregator API
+
+**Java | Spring Boot | Spring Data JPA | MySQL**
+
+A RESTful backend application that allows users to manage their accounts and bookmarks efficiently.
+
+### Features
+
+- 👤 User Authentication
+- 🔖 Bookmark Management
+- ✏️ Create, Update & Delete Bookmarks
+- 🏷️ Search Bookmarks by Tags
+- 📋 View User Bookmarks
+- ☕ Spring Boot
+- 🗃️ Spring Data JPA
+- 🌐 RESTful API
+
+
+🔗 Repository
+
+https://github.com/mahmoudali20/Bookmarks-Aggregator-API
+
 
 ---
 

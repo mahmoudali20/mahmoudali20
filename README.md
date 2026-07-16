@@ -265,8 +265,10 @@ These experiences helped me understand different backend ecosystems and strength
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/mahmoudali20">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<br><br>
+
+<a href="https://drive.google.com/file/d/1Aa_MSJy9U1CEonGZWMylpGiOb4EzTHTK/view?usp=sharing">
+<img src="https://img.shields.io/badge/Download%20CV-DC3545?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </div>
